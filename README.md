@@ -1,4 +1,4 @@
-<div id="teste" style="background-color: #000;">
+<div id="teste" style="color: #000;">
   <h1>Estudo ElectronJS<h1>
 
   <section>
