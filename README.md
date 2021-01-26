@@ -3,6 +3,6 @@
 <section>
   <h2>Introducao</h2>
   <p>
-  Estudo realizado com objetivo de conhecer o ElectronJS e ao final realizar a construcao de CRUD.
+  Estudo realizado com objetivo de conhecer o ElectronJS e ao final realizar a construcao de um CRUD.
   </p>
 </section>
