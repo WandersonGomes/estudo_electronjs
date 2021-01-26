@@ -3,6 +3,7 @@ require('electron-reload')(__dirname)
 
 function createWindow() {
     const CONFIGURATION_MAIN_WINDOW = {
+        icon: __dirname + '/view/asserts/icon_app.png',
         width: 800,
         height: 600,
         webPreferences: {
