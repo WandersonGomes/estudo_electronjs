@@ -8,8 +8,8 @@
 </section>
 
 # Markdown
-'''
+```
 function myFunction() {
   console.log("Hello World!");
 }
-'''
+```
