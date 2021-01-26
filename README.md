@@ -1,4 +1,4 @@
-<div id="teste" style="color: #000;">
+<div id="teste" style="text-align: center;">
   <h1>Estudo ElectronJS<h1>
 
   <section>
