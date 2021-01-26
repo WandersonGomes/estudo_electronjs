@@ -1,0 +1,8 @@
+JavaScript - NodeJS ElectronJS interagir com a nossa GUI
+CSS - Estilizar a pagina GUI
+HTML - HTML estruturar a nossa GUI
+MySQL - SGDB - Banco Dados
+NodeJS - NodeJS
+ElectronJS - A tecnologia de juntar o Javascript para criar aplicacoes Destckop
+MVC - Padrao de Projeto - Model View Controller
+CRUD - CREATE READ UPDATE DELETE
