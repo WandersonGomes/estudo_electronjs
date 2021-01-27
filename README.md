@@ -8,4 +8,5 @@ Para desenvolver este estudo sera necessario a instalacao de alguns softwares em
 
 <h3>Softwares:</h3>
 <a href="https://nodejs.org/en/">NodeJS</a> - version: 12.18.0<br>
-NPM - version: 6.14.11
+NPM - version: 6.14.11 <br>
+<a href="https://www.apachefriends.org/pt_br/index.html">XAMPP</a> - version: 8.0.1
