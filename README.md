@@ -102,8 +102,8 @@ Canal - How To Code: <a href="https://www.youtube.com/channel/UCmPhge53FcctKWXps
 <h2> Cursos Indicados </h2>
 Udemy - Curso de Banco de Dados: <a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/">Felipe Mafra</a><br>
 
-<h3> Autor </h3>
+<h2> Autor </h2>
 <strong>Autor:</strong> Wanderson Gomes da Costa<br>
 <strong>Email:</strong> dersom100@gmail.com<br>
-<strong>Telefone:</strong> (88) 99440-7919 (Mande uma mensagem no Whatsapp pra gente estudar juntos... :-))<br>
+<strong>Telefone:</strong> (88) 99440-7919     Mande uma mensagem no Whatsapp pra gente estudar juntos... :-)<br>
 <strong>Curso:</strong> Estudante de Ciencia da Computacao (Turma: 2020.1) - <a href="https://ifce.edu.br/tiangua"> IFCE </a> - Campus Tiangua<br>
