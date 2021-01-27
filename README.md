@@ -52,3 +52,11 @@ Instalar os modulos:
 <pre>
 .../myApp$ npm install electron electron-reload promise-mysql
 </pre>
+
+<h3>Alterar o package.json</h3>
+```
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "electron ."
+}
+```
