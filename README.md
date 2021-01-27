@@ -41,5 +41,5 @@ Inicializar o projeto:
 </pre>
 ou
 <pre>
-.../myApp$ npm init -y
+.../myApp$ npm init
 </pre>
