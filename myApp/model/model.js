@@ -13,11 +13,16 @@ async function getConnectionMySQL() {
 }
 
 async function insertName(name) {
-    const connection = await getConnectionMySQL()
+    try {
+        const connection = await getConnectionMySQL()
 
-    const result = await connection.query('INSERT INTO tbl_name SET tbl_name.name = ?', name);
-
-    console.log(result.affectedRows > 0);
+        const result = await connection.query('INSERT INTO tbl_name SET tbl_name.name = ?', name)
+        
+        return (result.affectedRows > 0)
+    } catch (error) {
+        console.error(error)
+        return false;
+    }
 }
 
 module.exports = {
