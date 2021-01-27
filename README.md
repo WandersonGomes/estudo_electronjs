@@ -31,3 +31,8 @@ myApp/
 ├── package.json
 └── app.js
 </pre>
+
+<h3>Comandos no Console</h3>
+~~~
+.../myApp$ npm init -y
+~~~
