@@ -13,7 +13,7 @@ NPM - version: 6.14.11 <br>
 
 <h3>Modulos NodeJS</h3>
 <a href="https://www.electronjs.org/">ElectronJS</a><br>
-<a href="https://www.npmjs.com/package/electron-reload">Electron Reload</a>
+<a href="https://www.npmjs.com/package/electron-reload">Electron Reload</a><br>
 <a href="https://www.npmjs.com/package/promise-mysql">Promise-MySQL</a>
 
 <h3>Estrutura de Diretorios e Arquivos Iniciais</h3>
