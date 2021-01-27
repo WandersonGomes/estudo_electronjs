@@ -13,16 +13,16 @@ NPM - version: 6.14.11 <br>
 
 <h3>Estrutura de Diretorios e Arquivos Iniciais</h3>
 <pre>
-myApp/<br>
-├── view<br>
-|   ├── css<br>
-|   |   └── custom.css<br>    
-|   ├── mainWindow.html<br>
-|   └── view.js<br>
-├── model<br>
-|   └── model.js<br>
-├── controller<br>
-|   └── controller.js<br>
-├── package.json<br>
-└── app.js<br>
+myApp/
+├── view
+|   ├── css
+|   |   └── custom.css    
+|   ├── mainWindow.html
+|   └── view.js
+├── model
+|   └── model.js
+├── controller
+|   └── controller.js
+├── package.json
+└── app.js
 </pre>
