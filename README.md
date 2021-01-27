@@ -33,7 +33,9 @@ myApp/
 </pre>
 
 <h3>Comandos no Console</h3>
+<pre>
 Inicializar o projeto:<br>
 `.../myApp$ npm init -y`
 ou<br>
 `.../myApp$ npm init -y`
+</pre>
