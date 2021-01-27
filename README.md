@@ -105,5 +105,7 @@ Udemy - Curso de Banco de Dados: <a href="https://www.udemy.com/course/bancos-de
 <h2> Autor </h2>
 <strong>Autor:</strong> Wanderson Gomes da Costa<br>
 <strong>Email:</strong> dersom100@gmail.com<br>
-<strong>Telefone:</strong> (88) 99440-7919     Mande uma mensagem no Whatsapp pra gente estudar juntos... :-)<br>
+<br>
+Mande uma mensagem no Whatsapp pra gente estudar juntos... :-)<br>
+<strong>Telefone:</strong> (88) 99440-7919<br><br>
 <strong>Curso:</strong> Estudante de Ciencia da Computacao (Turma: 2020.1) - <a href="https://ifce.edu.br/tiangua"> IFCE </a> - Campus Tiangua<br>
