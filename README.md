@@ -39,8 +39,7 @@ Inicializar o projeto:
 <p>
 `.../myApp$ npm init -y`
 </p>
-ou<br>
+ou
 <p>
 `.../myApp$ npm init -y`
 </p>
-</pre>
