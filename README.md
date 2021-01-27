@@ -34,4 +34,4 @@ myApp/
 
 <h3>Comandos no Console</h3>
 
-.../myApp$ `npm init -y`
+`.../myApp$ npm init -y`
