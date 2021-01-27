@@ -36,10 +36,10 @@ myApp/
 <p>
 Inicializar o projeto:
 </p>
-<p>
-`.../myApp$ npm init -y`
-</p>
+<pre>
+.../myApp$ npm init -y
+</pre>
 ou
-<p>
-`.../myApp$ npm init -y`
-</p>
+<pre>
+.../myApp$ npm init -y
+</pre>
