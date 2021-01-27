@@ -98,3 +98,6 @@ Canal - Marco Bruno: <a href="https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ
 Canal - Erick Wendel: <a href="https://www.youtube.com/channel/UCh84012dEUE076wM2CVFN9A"> acessar </a><br>
 Canal - DevPleno: <a href="https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww"> acessar </a><br>
 Canal - How To Code: <a href="https://www.youtube.com/channel/UCmPhge53FcctKWXps8gaiKA"> acessar </a><br>
+
+<h2> Cursos Indicados </h2>
+Udemy - Curso de Banco de Dados: <a href="https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/">Felipe Mafra</a><br>
