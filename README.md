@@ -4,7 +4,7 @@
   Estudo realizado com objetivo de conhecer o ElectronJS e ao final realizar a construcao de um CRUD.
 
 <h2>Configuracoes Iniciais</h2>
-Para desenvolver este estudo sera necessario a instalacao de alguns softwares em seu sistema.
+Para desenvolver este estudo sera necessario que voce instale alguns softwares e faca algumas configuracoes iniciais.
 
 <h3>Softwares:</h3>
 <a href="https://nodejs.org/en/">NodeJS</a> - version: 12.18.0<br>
