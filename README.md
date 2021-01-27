@@ -54,9 +54,15 @@ Instalar os modulos:
 </pre>
 
 <h3>Alterar o package.json</h3>
-```
+Alterar script para <i>startar</i> aplicacao:
+<pre>
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
   "start": "electron ."
 }
-```
+</pre>
+
+<h3>Rodar Aplicacao</h3>
+<pre>
+.../myApp$ npm start
+</pre>
