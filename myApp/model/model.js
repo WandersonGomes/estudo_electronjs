@@ -25,6 +25,7 @@ async function insertName(name) {
     }
 }
 
+//EXPORTACAO DAS FUNCIONALIDADES
 module.exports = {
     insertName
 }
@@ -33,5 +34,3 @@ module.exports = {
 async function debug() {
     await insertName('Wanderson Gomes')
 }
-
-debug()

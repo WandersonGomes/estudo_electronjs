@@ -7,7 +7,21 @@
         <link rel="stylesheet" href="./css/custom.css">
     </head>
     <body>
-        Hi, everybody!
+
+        <main>
+            <form id="form-name">
+                <label for="field-name">Nome:</label>
+                <input 
+                    id="input-txt-name" 
+                    type="text" 
+                    name="field-name"
+                    required>
+                <button type="submit"> Save </button>
+                <button type="reset"> Clear </button>
+            </form>
+            
+            <span id="message"></span>   
+        </main>
 
         <!-- JAVASCRIPT -->
         <script src="view.js"></script>
