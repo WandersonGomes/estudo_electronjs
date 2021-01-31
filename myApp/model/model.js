@@ -58,10 +58,64 @@ async function getContacts() {
     }
 }
 
+async function deleteContact(id) {
+    try {
+        const connection = await getConnectionMySQL(CONFIGURATION_CONNECT_MYSQL)
+        const myQuery = `DELETE FROM tbl_contact WHERE tbl_contact.id=${id}`
+        
+        const result = await connection.query(myQuery)
+
+        if (result.affectedRows > 0) {
+            return {
+                sucess: true,
+                message: "Contato excluido com sucesso!"
+            }
+        } else {
+            return {
+                sucess: false,
+                message: "Contato nao existe no banco de dados!"
+            }
+        }
+    } catch (error) {
+        return {
+            sucess: false,
+            message: error
+        }
+    }
+}
+
+async function updateContact(id, name, email) {
+    try {
+        const connection = await getConnectionMySQL(CONFIGURATION_CONNECT_MYSQL)
+        const myQuery = `UPDATE tbl_contact SET tbl_contact.name = '${name}', tbl_contact.email = '${email}' WHERE tbl_contact.id = ${id}` 
+        
+        const result = await connection.query(myQuery)
+
+        if (result.affectedRows > 0) {
+            return {
+                sucess: true,
+                message: "Contato atualizado com sucesso!"
+            }
+        } else {
+            return {
+                sucess: false,
+                message: "Contato nao existe no banco de dados!"
+            }
+        }
+    } catch (error) {
+        return {
+            sucess: false,
+            message: error
+        }
+    }
+}
+
 //EXPORTACAO DAS FUNCIONALIDADES
 module.exports = {
     insertContact,
-    getContacts
+    getContacts,
+    updateContact,
+    deleteContact
 }
 
 //DEBUG
